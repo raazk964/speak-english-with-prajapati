@@ -1,0 +1,11 @@
+{
+  "name": "Speak English with Prajapati",
+  "short_name": "Speak English",
+  "description": "Learn spoken English with Hindi meanings and office practice.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1456a0",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
